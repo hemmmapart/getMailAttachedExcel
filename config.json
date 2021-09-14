@@ -1,0 +1,8 @@
+{
+    "user" : "hemmmXXXX@163.com",
+    "password" : "BDOWKWSTVZXAAAAA",
+    "email_server" : "pop.163.com",
+    "addresser_list" : ["leapXXXXX@gmail.com", "1111111059@qq.com", "zhaosheng@163.com"],
+    "time_range" : "2021-08-23,2021-09-10",
+    "output_xls" : "fundValueToday.xlsx"
+}
